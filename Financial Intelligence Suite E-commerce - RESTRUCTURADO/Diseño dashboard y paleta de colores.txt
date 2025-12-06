@@ -1,0 +1,29 @@
+Fondo lienzo: #0E1117
+Fondo Visuales: #161A23
+
+
+TITULO:
+Segoe UI
+16 / 14
+
+KPI
+Fondo: #1D2231
+Titulo: #EAEAEA
+Valor: #2E86DE
+Sombra:#0A0C12
+
+SLICER:
+Fondo: #1D2231
+
+TITULO: #EAEAEA
+Borde: #2F3444
+Valor: #2E86DE
+Texto seleccionado: #FFFFFF
+Fuente: Tituli Calibri, 14 . Valor , SEGOE UI, 12.
+Espaciado interno: 6–8 px
+
+VISUALES EN GRAFICOS:
+Titulo: Calibri 12,  #2E86DE
+Etiqueta de datos Segoe UI, calibri 12
+Colores de las columnas en el grafico: 
+

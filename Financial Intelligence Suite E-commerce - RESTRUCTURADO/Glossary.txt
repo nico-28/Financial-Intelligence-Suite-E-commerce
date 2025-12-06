@@ -1,0 +1,15 @@
+
+COGS = Cost of Goods Solds  ---> (( Gross Profit=Revenue−COGS ))
+
+OPEX = Operating Expenses ---> Costos de operar el negocio
+
+AOV = Average Order Value (ventas totales / numero de pedidos)
+
+Ending Cash = significa Efectivo Final o Saldo Final de Caja. --> Ending Cash=Beginning Cash+Cash Inflows−Cash Outflows
+
+Runway = cuántos días (o meses) puede seguir operando una empresa antes de quedarse sin efectivo, manteniendo su ritmo actual de gastos.
+
+
+
+
+

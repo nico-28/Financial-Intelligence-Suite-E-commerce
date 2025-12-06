@@ -1,0 +1,12 @@
+AccountCode,AccountName,Type
+4000,Revenue,Revenue
+5000,COGS - Merchandise,COGS
+5100,COGS - Shipping,COGS
+5200,COGS - Platform Fees,COGS
+6000,OPEX - Advertising,OPEX
+6100,OPEX - Salaries,OPEX
+6200,OPEX - Rent,OPEX
+6300,OPEX - Utilities,OPEX
+6350,OPEX - Tools & SaaS,OPEX
+6400,OPEX - Logistics Overhead,OPEX
+8000,Taxes - Income/Turnover,Taxes
